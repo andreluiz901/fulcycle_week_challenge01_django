@@ -77,6 +77,14 @@ Abra seu navegador e acesse http://127.0.0.1:8000/ para ver a lista de postagens
 
 Por lá você pode cadastrar novos posts e novas tags.
 
+### 8. Dados de Acesso admin(default)
+
+Utilize os seguintes dados para acesar o painel admin:
+
+- usuario: admin
+- senha: admin
+- email: admin@email.com
+
 ## 🖼️ Estrutura do Projeto
 
 ```bash
