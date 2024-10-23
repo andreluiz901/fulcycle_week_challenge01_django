@@ -2,6 +2,14 @@
 
 Bem-vindo ao Meu Blog! Este é um projeto simples de blog desenvolvido com Django, onde você pode listar e visualizar postagens. O blog foi criado para praticar o uso do Django e compreender a estrutura de um aplicativo web durante a semana Full Cycle.
 
+## Front Blog Image
+
+<img src="./assets/blog_image.png">
+
+## Admin Back Image
+
+<img src="./assets/admin_image.png">
+
 ## 🚀 Tecnologias Usadas
 
 - **Python**: Linguagem de programação usada para desenvolver o projeto.
